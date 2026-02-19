@@ -267,6 +267,43 @@ h2 {
     background-color: #5a6268;
 }
 
+/* Abstract Toggle Button */
+.abstract-toggle {
+    display: inline-block;
+    padding: 8px 16px;
+    background-color: #007bff;
+    color: #ffffff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    font-weight: 500;
+    font-size: 0.95em;
+}
+
+.abstract-toggle:hover {
+    background-color: #0056b3;
+}
+
+/* Abstract Content */
+.abstract-content {
+    margin-top: 15px;
+    padding: 15px;
+    background-color: #f8f9fa;
+    border-left: 4px solid #007bff;
+    border-radius: 4px;
+}
+
+.abstract-content p {
+    color: #333333;
+    line-height: 1.8;
+    margin-bottom: 0;
+}
+
+.abstract-content strong {
+    color: #212529;
+}
+
 /* Footer */
 footer {
     background-color: #e9ecef;
