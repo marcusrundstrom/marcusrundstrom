@@ -46,6 +46,11 @@
                     <strong>The Effect of Automation Risk on Occupational Preferences - An Information Provision Experiment.</strong><br>
                     Rundström, M. and <a href="https://sites.google.com/site/erikwengstrom/" target="_blank">Wengström, E.</a>, (2025)
                     <br><br>
+                    <button class="abstract-toggle" onclick="toggleAbstract('abstract1', event)">Show Abstract</button>
+                    <div id="abstract1" class="abstract-content" style="display: none;">
+                        <p><strong>Abstract:</strong> [Please add your abstract text here]</p>
+                    </div>
+                    <br>
                     <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5251084" target="_blank" class="paper-link">View Paper</a>
                 </li>
             </ul>
@@ -55,5 +60,20 @@
     <footer>
         <p>&copy; 2026 Marcus Rundström. All rights reserved.</p>
     </footer>
+
+    <script>
+        function toggleAbstract(id, event) {
+            const abstractDiv = document.getElementById(id);
+            const button = event.target;
+            
+            if (abstractDiv.style.display === "none") {
+                abstractDiv.style.display = "block";
+                button.textContent = "Hide Abstract";
+            } else {
+                abstractDiv.style.display = "none";
+                button.textContent = "Show Abstract";
+            }
+        }
+    </script>
 </body>
 </html>
