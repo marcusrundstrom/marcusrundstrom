@@ -63,7 +63,7 @@ body {
 
 .profile-image img {
     width: 200px;
-    height: 200px;
+    height: 280px;
     object-fit: cover;
     border-radius: 0;
     border: 3px solid #333333;
