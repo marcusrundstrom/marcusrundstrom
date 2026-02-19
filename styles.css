@@ -233,6 +233,40 @@ h2 {
     }
 }
 
+/* Content Lists */
+.content-list {
+    list-style: none;
+    padding-left: 0;
+}
+
+.content-list li {
+    margin-bottom: 20px;
+    padding: 15px;
+    background-color: #ffffff;
+    border-left: 4px solid #6c757d;
+}
+
+.content-list li strong {
+    color: #212529;
+    font-size: 1.1em;
+}
+
+/* Paper Link Button */
+.paper-link {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #6c757d;
+    color: #ffffff;
+    text-decoration: none;
+    border-radius: 4px;
+    transition: background-color 0.3s ease;
+    font-weight: 500;
+}
+
+.paper-link:hover {
+    background-color: #5a6268;
+}
+
 /* Footer */
 footer {
     background-color: #e9ecef;
