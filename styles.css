@@ -108,7 +108,7 @@ h2 {
     background-color: #f6f8fa;
     color: #eaeef2;
     padding: 25px;
-    border-left: 4px solid #0969da;
+    border-left: 4px solid #eaeef2;
 }
 
 .contact-info p {
@@ -132,7 +132,7 @@ h2 {
 .social-link {
     display: inline-block;
     padding: 12px 25px;
-    background-color: #0969da;
+    background-color: #eaeef2;
     color: #ffffff;
     text-decoration: none;
     border-radius: 4px;
@@ -167,7 +167,7 @@ h2 {
     background-color: #f6f8fa;
     color: #24292f;
     padding: 30px;
-    border-left: 4px solid #0969da;
+    border-left: 4px solid #eaeef2;
 }
 
 .news-section h2 {
@@ -320,7 +320,7 @@ h2 {
     padding: 15px;
     background-color: #f6f8fa;
     color: #24292f;
-    border-left: 4px solid #0969da;
+    border-left: 4px solid #eaeef2;
 }
 
 .content-list li strong {
@@ -332,7 +332,7 @@ h2 {
 .paper-link {
     display: inline-block;
     padding: 10px 20px;
-    background-color: #0969da;
+    background-color: #eaeef2;
     color: #ffffff;
     text-decoration: none;
     border-radius: 4px;
@@ -367,7 +367,7 @@ h2 {
     margin-top: 15px;
     padding: 15px;
     background-color: #f6f8fa;
-    border-left: 4px solid #0969da;
+    border-left: 4px solid #eaeef2;
     border-radius: 4px;
 }
 
