@@ -14,7 +14,7 @@ body {
 
 /* Tab Bar Navigation */
 .tab-bar {
-    background-color: #e9ecef;
+    background-color: #ffffff;
     display: flex;
     justify-content: center;
     padding: 0;
@@ -57,7 +57,7 @@ body {
     margin-bottom: 60px;
     align-items: flex-start;
     padding: 30px 30px 40px 30px;
-    background-color: #f8f9fa;
+    background-color: #ffffff;
     border-bottom: 2px solid #e0e0e0;
     border-radius: 8px;
 }
@@ -105,7 +105,7 @@ h2 {
 
 /* Contact Section */
 .contact-info {
-    background-color: #e9ecef;
+    background-color: #ffffff;
     color: #333333;
     padding: 25px;
     border-left: 4px solid #6c757d;
@@ -146,7 +146,7 @@ h2 {
 
 /* Location Section */
 .map-container {
-    background-color: #e9ecef;
+    background-color: #ffffff;
     padding: 20px;
     border: 2px solid #dee2e6;
 }
@@ -164,7 +164,7 @@ h2 {
 
 /* News Section */
 .news-section {
-    background-color: #e9ecef;
+    background-color: #ffffff;
     color: #333333;
     padding: 30px;
     border-left: 4px solid #6c757d;
@@ -188,7 +188,7 @@ h2 {
     margin-bottom: 60px;
     align-items: center;
     padding: 30px;
-    background-color: #e9ecef;
+    background-color: #ffffff;
     border-radius: 8px;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
@@ -318,7 +318,7 @@ h2 {
 .content-list li {
     margin-bottom: 20px;
     padding: 15px;
-    background-color: #e9ecef;
+    background-color: #ffffff;
     color: #333333;
     border-left: 4px solid #6c757d;
 }
@@ -366,7 +366,7 @@ h2 {
 .abstract-content {
     margin-top: 15px;
     padding: 15px;
-    background-color: #e9ecef;
+    background-color: #ffffff;
     border-left: 4px solid #007bff;
     border-radius: 4px;
 }
@@ -383,7 +383,7 @@ h2 {
 
 /* Footer */
 footer {
-    background-color: #e9ecef;
+    background-color: #ffffff;
     color: #495057;
     text-align: center;
     padding: 20px;
