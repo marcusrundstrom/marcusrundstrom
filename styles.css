@@ -16,6 +16,7 @@ body {
 .tab-bar {
     background-color: #e9ecef;
     display: flex;
+    justify-content: center;
     padding: 0;
     position: sticky;
     top: 0;
@@ -104,7 +105,7 @@ h2 {
 
 /* Contact Section */
 .contact-info {
-    background-color: #f8f9fa;
+    background-color: #e9ecef;
     color: #333333;
     padding: 25px;
     border-left: 4px solid #6c757d;
@@ -145,7 +146,7 @@ h2 {
 
 /* Location Section */
 .map-container {
-    background-color: #f8f9fa;
+    background-color: #e9ecef;
     padding: 20px;
     border: 2px solid #dee2e6;
 }
@@ -163,7 +164,7 @@ h2 {
 
 /* News Section */
 .news-section {
-    background-color: #f8f9fa;
+    background-color: #e9ecef;
     color: #333333;
     padding: 30px;
     border-left: 4px solid #6c757d;
@@ -187,7 +188,7 @@ h2 {
     margin-bottom: 60px;
     align-items: center;
     padding: 30px;
-    background-color: #f8f9fa;
+    background-color: #e9ecef;
     border-radius: 8px;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
@@ -317,7 +318,7 @@ h2 {
 .content-list li {
     margin-bottom: 20px;
     padding: 15px;
-    background-color: #f8f9fa;
+    background-color: #e9ecef;
     color: #333333;
     border-left: 4px solid #6c757d;
 }
@@ -365,7 +366,7 @@ h2 {
 .abstract-content {
     margin-top: 15px;
     padding: 15px;
-    background-color: #f8f9fa;
+    background-color: #e9ecef;
     border-left: 4px solid #007bff;
     border-radius: 4px;
 }
