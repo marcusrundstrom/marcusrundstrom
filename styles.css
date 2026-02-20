@@ -102,7 +102,8 @@ h2 {
 
 /* Contact Section */
 .contact-info {
-    background-color: #ffffff;
+    background-color: #4a4e54;
+    color: #e9ecef;
     padding: 25px;
     border-left: 4px solid #6c757d;
 }
@@ -113,7 +114,7 @@ h2 {
 }
 
 .contact-info strong {
-    color: #000000;
+    color: #f1f3f5;
     display: inline-block;
     width: 80px;
 }
@@ -142,7 +143,7 @@ h2 {
 
 /* Location Section */
 .map-container {
-    background-color: #ffffff;
+    background-color: #4a4e54;
     padding: 20px;
     border: 2px solid #dee2e6;
 }
@@ -155,20 +156,26 @@ h2 {
 .map-caption {
     text-align: center;
     margin-top: 10px;
-    color: #666666;
+    color: #adb5bd;
 }
 
 /* News Section */
 .news-section {
-    background-color: #ffffff;
+    background-color: #4a4e54;
+    color: #e9ecef;
     padding: 30px;
     border-left: 4px solid #6c757d;
+}
+
+.news-section h2 {
+    color: #f8f9fa;
+    border-bottom-color: #6c757d;
 }
 
 .news-content p {
     margin-bottom: 15px;
     font-size: 1.05em;
-    color: #333333;
+    color: #e9ecef;
 }
 
 /* Alternating Image-Text Blocks */
@@ -178,7 +185,7 @@ h2 {
     margin-bottom: 60px;
     align-items: center;
     padding: 30px;
-    background-color: #ffffff;
+    background-color: #4a4e54;
     border-radius: 8px;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
@@ -206,13 +213,13 @@ h2 {
 .content-block-text h3 {
     font-size: 1.6em;
     margin-bottom: 15px;
-    color: #212529;
+    color: #f8f9fa;
 }
 
 .content-block-text p {
     font-size: 1.05em;
     line-height: 1.8;
-    color: #495057;
+    color: #dee2e6;
 }
 
 /* Centered content blocks for image-only sections */
@@ -308,12 +315,13 @@ h2 {
 .content-list li {
     margin-bottom: 20px;
     padding: 15px;
-    background-color: #ffffff;
+    background-color: #4a4e54;
+    color: #e9ecef;
     border-left: 4px solid #6c757d;
 }
 
 .content-list li strong {
-    color: #212529;
+    color: #f8f9fa;
     font-size: 1.1em;
 }
 
