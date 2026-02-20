@@ -81,7 +81,7 @@ body {
 .profile-content h1 {
     font-size: 2.5em;
     margin-bottom: 20px;
-    color: #eaeef2;
+    color: #000000;
 }
 
 .bio {
@@ -98,7 +98,7 @@ section {
 h2 {
     font-size: 1.8em;
     margin-bottom: 20px;
-    color: #eaeef2;
+    color: #000000;
     border-bottom: 2px solid #d0d7de;
     padding-bottom: 10px;
 }
@@ -106,7 +106,7 @@ h2 {
 /* Contact Section */
 .contact-info {
     background-color: #f6f8fa;
-    color: #eaeef2;
+    color: #000000;
     padding: 25px;
     border-left: 4px solid #eaeef2;
 }
@@ -117,7 +117,7 @@ h2 {
 }
 
 .contact-info strong {
-    color: #eaeef2;
+    color: #000000;
     display: inline-block;
     width: 80px;
 }
