@@ -104,6 +104,10 @@ h2 {
 }
 
 /* Contact Section */
+.contact-section {
+    overflow: hidden;
+}
+
 .contact-info {
     background-color: #f6f8fa;
     color: #000000;
