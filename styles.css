@@ -222,7 +222,7 @@ h2 {
 .content-block-text p {
     font-size: 1.05em;
     line-height: 1.8;
-    color: #ffffff;
+    color:  #000000;
 }
 
 /* Centered content blocks for image-only sections */
